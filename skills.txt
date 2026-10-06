@@ -1,0 +1,61 @@
+python
+java
+c++
+c#
+javascript
+typescript
+sql
+mysql
+postgresql
+mongodb
+git
+github
+docker
+linux
+rest api
+fastapi
+flask
+django
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+pytorch
+keras
+machine learning
+deep learning
+nlp
+natural language processing
+computer vision
+generative ai
+llm
+prompt engineering
+rag
+langchain
+llamaindex
+vector database
+chromadb
+faiss
+pinecone
+embeddings
+transformers
+hugging face
+spacy
+nltk
+openai
+streamlit
+data analysis
+data structures
+algorithms
+aws
+azure
+gcp
+html
+css
+react
+excel
+power bi
+tableau
+ai agents
+tool calling
